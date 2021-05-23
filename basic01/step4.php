@@ -2,9 +2,8 @@
 
 
 $name = 'someone';
+
 $position = 'tech consultant';
-
-
 
 
 

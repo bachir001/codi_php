@@ -3,8 +3,8 @@
 
 $name = 'someone';
 $email = 'info@gabykaram.com';
-$height=12
-$width=12
+$height=12;
+$width=12;
 $area=$height*$width;
 
 
