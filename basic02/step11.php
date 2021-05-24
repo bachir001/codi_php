@@ -24,3 +24,4 @@ if(IsPrime(55)===0){
     echo "is prime ";
 }
 
+?>
