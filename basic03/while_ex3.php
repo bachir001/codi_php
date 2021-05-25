@@ -10,7 +10,7 @@ function  countword ($text, $TheWord) {
     
     }else{
 
-    echo "enter a string";
+    echo "isn't string";
     
     }
 
